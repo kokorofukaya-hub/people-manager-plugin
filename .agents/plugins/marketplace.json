@@ -1,0 +1,11 @@
+{
+  "name": "people-manager-plugins",
+  "plugins": [
+    {
+      "name": "people-manager",
+      "source": {"source": "local", "path": "./"},
+      "policy": {"installation": "AVAILABLE", "authentication": "ON_INSTALL"},
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "people-manager-plugins",
+  "description": "Portable people management skills for connected Slack and Notion.",
+  "owner": {"name": "People Manager Maintainers"},
+  "plugins": [
+    {"name": "people-manager", "source": "./"}
+  ]
+}

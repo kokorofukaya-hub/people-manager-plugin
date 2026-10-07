@@ -1,0 +1,7 @@
+{
+  "name": "people-manager",
+  "version": "0.1.0",
+  "description": "Evidence-based activity logs, private meeting imports, 1on1 preparation, and monthly reports using connected Slack and Notion.",
+  "author": {"name": "People Manager Maintainers"},
+  "repository": "https://github.com/kokorofukaya-hub/people-manager-plugin"
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "people-manager",
+  "version": "0.1.0",
+  "description": "Manage evidence-based activity logs, private meeting notes, 1on1 preparation, and monthly reports with connected Slack and Notion.",
+  "author": {"name": "People Manager Maintainers"},
+  "repository": "https://github.com/kokorofukaya-hub/people-manager-plugin",
+  "keywords": ["people-management", "slack", "notion", "activity-log"]
+}

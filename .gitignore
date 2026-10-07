@@ -1,0 +1,7 @@
+.people-manager/
+**/.people-manager/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
